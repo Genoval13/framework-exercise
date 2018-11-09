@@ -1,0 +1,32 @@
+.App-header {
+  background-color: black;
+  color: teal;
+  height: 100px;
+  display: flex;
+}
+
+.headerText {
+  align-content: center;
+  transform: translate(500px, 10px)
+}
+
+.post {
+  border: 5px, solid, black;
+  height: 400px;
+  width: 1000px;
+  display: inline-block;
+  background-color: snow;
+}
+
+.img {
+  width: 200px;
+  height: 200px;
+}
+
+.votes {
+  padding-left: 20px;
+}
+
+.date {
+  padding-left: 20px;
+}
